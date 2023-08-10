@@ -159,17 +159,17 @@ font-size: 95%;
 /*----------------------------------------*/
 /* menu for dark background */
 .dtr-menu-light .nav-link { color: #fff; }
-.dtr-menu-light .active { color: #6138bd; }
-.dtr-menu-light .sf-menu:first-child > li a::before { background-color: #6138bd; }
-.dtr-menu-light .nav-link:hover { color: #6138bd; }
+.dtr-menu-light .active { color: #2cac4c; }
+.dtr-menu-light .sf-menu:first-child > li a::before { background-color: #2cac4c; }
+.dtr-menu-light .nav-link:hover { color: #2cac4c; }
 /* menu for light background */
 .dtr-menu-dark .nav-link { color: #11204d; }
-.dtr-menu-dark .active { color: #6138bd; }
-.dtr-menu-dark .sf-menu:first-child > li a::before { background-color: #6138bd; }
-.dtr-menu-dark .nav-link:hover { color: #6138bd; }
+.dtr-menu-dark .active { color: #2cac4c; }
+.dtr-menu-dark .sf-menu:first-child > li a::before { background-color: #2cac4c; }
+.dtr-menu-dark .nav-link:hover { color: #2cac4c; }
 /* dropdown link color */
 .sf-menu .sub-menu li a { color: #787878; }
-.sf-menu .sub-menu li a:hover, .sf-menu .sub-menu li .active { background: #f5f5f5; color: #6138bd; }
+.sf-menu .sub-menu li a:hover, .sf-menu .sub-menu li .active { background: #f5f5f5; color: #2cac4c; }
 .sf-menu .sub-menu { background-color: #fff; }
 .sf-menu .sub-menu a { border-bottom-color: #eee; }
 /*===== Responsive header =====*/
