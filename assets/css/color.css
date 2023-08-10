@@ -193,7 +193,7 @@ font-size: 95%;
 /*== Video Play ==*/
 /* white */
 .video-button-light .dtr-video-button-wrap-inner { background-color: #fff; }
-.video-button-light .dtr-video-button::after { color: #6138bd; }
+.video-button-light .dtr-video-button::after { color: #38bd74; }
 .video-button-light .dtr-border-animation { border-color: rgba(255, 255, 255, .5); }
 /* white */
 .video-button-dark .dtr-video-button-wrap-inner { background-color: #11204d; }
