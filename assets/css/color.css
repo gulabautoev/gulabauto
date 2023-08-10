@@ -210,7 +210,7 @@ font-size: 95%;
 .dtr-progress-title i { color: #6138bd; }
 /*===== servicebox =====*/
 .dtr-service-box { border-color: #d9dbe3; }
-.dtr-service-box:before { background: #efebf8;  }
+.dtr-service-box:before { background: #ebf8f0;  }
 .dtr-border-table th { color: #4e5767; }
 .dtr-border-table th, .dtr-border-table td { border-color: #ddd; }
 .dtr-border-table tr td:nth-child(2) { color: #6138bd; }
