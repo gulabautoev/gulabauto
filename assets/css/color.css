@@ -80,7 +80,7 @@ a:hover { color: #6138bd; }
 .btn-flat-green { border-color: #98c513; color: #98c513; }
 .btn-flat-green:hover { background-color: #98c513; color: #fff; }
 /*===== button hovers =====*/
-.dtr-btn:hover, .dtr-btn-flat:hover, #submit:hover, input[type="submit"]:hover { background-color: #11204d; border-color: #11204d; color: #fff; }
+.dtr-btn:hover, .dtr-btn-flat:hover, #submit:hover, input[type="submit"]:hover { background-color: #114d1e; border-color: #114d1e; color: #fff; }
 /*----------------------------------------*/
 /*----- Forms -----*/
 /*----------------------------------------*/
